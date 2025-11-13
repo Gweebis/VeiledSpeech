@@ -1,0 +1,14 @@
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\VeiledSpeechPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\VeiledSpeechPrototype.AssemblyInfoInputs.cache
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\VeiledSpeechPrototype.AssemblyInfo.cs
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\VeiledSpeechPrototype.csproj.CoreCompileInputs.cache
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\bin\Debug\net8.0\VeiledSpeechPrototype.exe
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\bin\Debug\net8.0\VeiledSpeechPrototype.deps.json
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\bin\Debug\net8.0\VeiledSpeechPrototype.runtimeconfig.json
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\bin\Debug\net8.0\VeiledSpeechPrototype.dll
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\bin\Debug\net8.0\VeiledSpeechPrototype.pdb
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\VeiledSpeechPrototype.dll
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\refint\VeiledSpeechPrototype.dll
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\VeiledSpeechPrototype.pdb
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\VeiledSpeechPrototype.genruntimeconfig.cache
+C:\Users\fouyo\source\repos\VeiledSpeechPrototype\VeiledSpeechPrototype\obj\Debug\net8.0\ref\VeiledSpeechPrototype.dll
