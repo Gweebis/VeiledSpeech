@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VeiledSpeechPrototype")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2ebb497f348a64f71e8488c8e28acc236464256")]
 [assembly: System.Reflection.AssemblyProductAttribute("VeiledSpeechPrototype")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VeiledSpeechPrototype")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
